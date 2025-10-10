@@ -77,7 +77,7 @@ function convertvalues() {
     }
 
     if (currencySelecteChanger.value == "bitcoinn") {
-        currencyvalueconverte.innerHTML = new Intl.NumberFormat("en-US", {
+        currencyvalueconverte.innerHTML = new Intl.NumberFormat("en-US", {                                                                                                                                                                                                                                                                                                                                                                             
             style: "currency",
             currency: "BTC"
         }).format(inputCurrencyvalue)

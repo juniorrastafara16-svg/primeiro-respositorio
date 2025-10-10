@@ -1,0 +1,74 @@
+*{
+margin: 00;
+padding: 00;
+box-sizing: border-box;
+font-family: "Roboto", sans-serif;
+}
+body{
+
+background-color: #0a72d3a4;
+
+}
+
+img{
+display: block;
+width: 500px;
+height: 300px;
+margin: 79px auto;
+}
+
+h2{
+font-weight: 400;
+font-size: 32px;
+line-height: 38px;
+color: #FFFFFF;
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+
+.max,.min{
+width: 342px;
+height: 74px;
+background: rgba(255, 255, 255, 0.25);
+border: 1px solid rgba(255, 255, 255, 0.2);
+border-radius: 14px;
+/* name within input */
+font-size: 40px;
+line-height: 47px;
+color: #000000;
+opacity: 0.7;
+margin: auto 23px;
+cursor: pointer;
+text-align: center;
+}
+
+.caixa{
+margin-left: 380px;
+margin-top: 29px;
+}
+
+
+button{
+
+width: 342px;
+height: 72px;
+display: block;
+margin: 26px 600px;
+background: #eb2e2e;
+box-shadow: 0px 18px 40px rgba(174, 195, 70, 0.35);
+border-radius: 10px;
+border: none;
+/* Sortear */
+cursor: pointer;
+font-size: 36px;
+line-height: 2px;
+color: #FFFFFF;
+}
+
+button:hover{
+opacity: 0.8;
+}
+button:active{
+opacity: 0.6;
+}
