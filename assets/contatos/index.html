@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+<input placeholder="digite o nome do  contato ">
+<p></p>
+<button>procurar contato </button>
+
+
+
+
+
+<script>
+
+let p = document.querySelector("p")
+let input = document.querySelector("input")
+
+
+const contatos = [
+  {name: "junior", number: "(085) 985921502" , enderes : "rua sao  fran"},
+  {name: "lore", number: "(085) 985923333"},
+  {name: "carlos", number: "(085) 985924444"},
+  {name: "caio", number: "(085) 9859215555"},
+ ]
+
+
+function contato(){
+
+let i = 0
+
+
+while (  i< contatos.length) {
+
+  
+if ( input.value.toLowerCase() === contatos[i].name.toLowerCase()){
+
+p.innerHTML = `encontrado :${contatos[i].name} tel: ${contatos[i].number}, enderes: ${contatos[i].enderes}`
+
+break;
+
+} else {
+  p.innerHTML = "nao encotrado";
+}
+ i++
+}
+
+}
+
+// Adiciona o evento ao botão para chamar a função contato
+document.querySelector("button").addEventListener("click", contato);
+
+</script>
+</body>
+</html>
