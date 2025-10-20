@@ -14,4 +14,7 @@
 <br>
 <br>
 <img src= https://raw.githubusercontent.com/juniorrastafara16-svg/primeiro-respositorio/1b522b4cfe498396e528708e49a6e0fa560b8462/jokenpo/Captura%20de%20tela%202025-10-20%20192837.png>
+<br>
+<br>
+<br>
 <img src= >
