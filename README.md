@@ -17,4 +17,6 @@
 <br>
 <br>
 <br>
-<img src= >
+<br>
+<br>
+<img src= https://github.com/juniorrastafara16-svg/primeiro-respositorio/blob/main/jokenpo/White%20Gray%20Modern%20Pixel%20Dino%20Trivia%20Game%20Night%20Presentation.gif?raw=true/ margin-top=15px >
