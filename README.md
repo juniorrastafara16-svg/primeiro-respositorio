@@ -8,3 +8,9 @@
     <img src="https://github.com/juniorrastafara16-svg/primeiro-respositorio/blob/main/Captura%20de%20tela%202025-09-28%20143747.png?raw=true" img/  width="150">
 <h2> no pc 💻 </h2>
     <img src="https://github.com/juniorrastafara16-svg/primeiro-respositorio/blob/main/Captura%20de%20tela%202025-09-28%20142913.png?raw=true" img/ width="600" >
+
+<h2> esse foi  o  joguinho  que  criei ussando  HTML CSS JS </h2>
+<br>
+<br>
+<br>
+<img src="https://github.com/juniorrastafara16-svg/primeiro-respositorio/blob/main/Captura%20de%20tela%202025-09-28%20142913.png?raw=true"img/ > 
